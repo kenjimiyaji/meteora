@@ -1,0 +1,33 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+#icones-facilidades {
+    color: #DAFF01;
+}
+
+#titulos-facilidades {
+    color: #DAFF01;
+}
+
+.btn {
+    background-color: #9353FF;
+    border: none;
+}
+
+#button-addon2 {
+    background-color: #9353FF;
+    color: white;
+    border: none;
+}
+
+#textos-carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+  }
